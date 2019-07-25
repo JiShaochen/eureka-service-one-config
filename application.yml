@@ -1,0 +1,7 @@
+# 指定config的端口号
+server:
+  port: 7000
+# 指定config的名称
+spring:
+  application:
+    name: config
